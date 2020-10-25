@@ -1,4 +1,6 @@
-need to change
-core.php, logout.php, index.php
-header('location: http://localhost:9080/stock/index.php');	
+Install xampp
+Extract files at htdocs
+Go to phpmyadmin and create stock data base
+Upload stock.sql
+Get ready	
 
